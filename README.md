@@ -1,4 +1,5 @@
 Java Swing-Based Student Management System
+
 📝 Overview
 This is a Java GUI-based application that simulates a simple Student Management System using Java Swing. It allows administrators to register students and view results, while students can log in, view available courses, take multiple-choice exams, and see their scores.
 
